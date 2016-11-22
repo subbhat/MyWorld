@@ -1,1 +1,2 @@
 # MyWorld
+Understand GitHub functions.
